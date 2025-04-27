@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-2.7-green?logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Hibernate-5.6-orange?logo=data-dot-ai&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-24.0-blue?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-green?logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-orange?logo=data-dot-ai&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Bitbucket-Cloud-blue?logo=bitbucket&logoColor=white" alt="Bitbucket"/>
   <img src="https://img.shields.io/badge/Jira-8AECFF?logo=jira&logoColor=black" alt="Jira"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
@@ -35,8 +35,8 @@ Pasjonuję się tworzeniem nowoczesnych aplikacji webowych w języku Java, ze sz
 | 🎨 **Projektowanie UI/UX** | Figma                                   |
 
 ---
-📬 Kontakt
-✉️ kubaszyszko@onet.pl
+📬 Kontakt--
+✉️ kubaszyszko@onet.pl--
 🔗 [LinkedIn](https://www.linkedin.com/in/jakubszyszko/)
 
 
