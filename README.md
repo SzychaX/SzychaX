@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-2.7-green?logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-5.6-orange?logo=data-dot-ai&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
