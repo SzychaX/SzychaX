@@ -27,9 +27,9 @@ Pasjonuję się tworzeniem nowoczesnych aplikacji webowych w języku Java, ze sz
 | 💻 **Język**             | Java                                      |
 | ⚙️ **Frameworki**        | Spring, Spring Boot                       |
 | 🗃️ **ORM**               | Hibernate                                 |
-| 🛢️ **Baza danych**       | PostgreSQL (SQL)                          |
+| 🛢️ **Baza danych**       | PostgreSQL                                |
 | 🐳 **Konteneryzacja**    | Docker                                    |
-| 🌐 **CI/CD & Repozytorium** | Bitbucket (Git)                        |
+| 🌐 **CI/CD & Repozytorium** | Bitbucket, GutHub                      |
 | 📋 **Zarządzanie projektem** | Jira                                  |
 | 🚀 **Testowanie API**     | Postman                                  |
 | 🎨 **Projektowanie UI/UX** | Figma                                   |
