@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Hibernate-orange?logo=data-dot-ai&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Bitbucket-Cloud-blue?logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/Bitbucket-blue?logo=bitbucket&logoColor=white" alt="Bitbucket"/>
   <img src="https://img.shields.io/badge/Jira-8AECFF?logo=jira&logoColor=black" alt="Jira"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
