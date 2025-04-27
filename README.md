@@ -35,8 +35,8 @@ Pasjonuję się tworzeniem nowoczesnych aplikacji webowych w języku Java, ze sz
 | 🎨 **Projektowanie UI/UX** | Figma                                   |
 
 ---
-📬 Kontakt--
-✉️ kubaszyszko@onet.pl--
+📬 Kontakt  
+✉️ kubaszyszko@onet.pl  
 🔗 [LinkedIn](https://www.linkedin.com/in/jakubszyszko/)
 
 
